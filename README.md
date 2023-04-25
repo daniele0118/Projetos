@@ -1,3 +1,3 @@
 # Projetos
-Projetos pessoais de estudos.
+Projetos pessoais de estudos
 
